@@ -1,3 +1,5 @@
+![SK16 - Noorduyn AT-16-ND Harvard IIB](/assets/images/harvard-sk16.webp)
+
 Efter ett pass i ett veteranflygplan kommer du inte längre se någon större skillnad mellan att flyga en Cessna 172 och en DA40. I jämförelse med ett veteranflygplan är nämligen skillnaderna mellan dagens klubb- och skolflygplan minimala. 
 
 Veteranflygplan har ingen elektronik som avlastar, utan allt sker manuellt. Detta innebär att man som pilot (då man är så illa tvungen…) behöver få en helt annan känsla för sin flygmaskin. 
@@ -55,3 +57,49 @@ Anledningen att de – trots sin entusiasm och önskan att sprida denna passion 
 Till följd blir försäkringskostnaderna avsevärt högre för dessa flygplan, och det ställs ofta krav på namngivna piloter och tydliga krav på erfarenhet.
 
 Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Men därefter är det helt upp till ägaren. Vissa ägare kommer blankt säga nej till uthyrning medan andra kanske är mer öppna (troligen först när de lärt känna piloten personligen). Men att flyga med instruktörer kommer alltid vara möjligt.
+
+## Flygplan och typer som erbjuds
+
+### DHC-1 DeHavilland Chipmunk
+
+![DHC-1 - DeHavilland Chipmunk](/assets/images/chipmunk.webp)
+
+Första flygning 1946, våra individer från 1950 (GRK) och 1952 (FNP).
+
+Chipmunk är efterföljaren till Tiger Moth som primary trainer i flertal flygvapen i Västvärlden efter andra världskriget; typen kallas oxå för poor man’s Spitfire p.g.a. sina enastående aerodynamiska egenskaper.
+
+För Chipmunk kan vi t.o.m. erbjuda roteflygning då vi har tillgång till två individer.
+
+Detta är ett perfekt insteg i veteranflygets värld!
+
+### SK16 – Noorduyn AT-16-ND Harvard IIB
+
+![SK16 - Noorduyn AT-16-ND Harvard IIB](/assets/images/harvard-sk16-2.webp)
+
+Första flygning 1935, vår individ (FUZ) är från 1942.
+
+Individen användes först i Kanadensiska flygvapnet. 1947 togs den in i Svenska flygvapnet som SK16A och blev den Svenska militärattachéns tjänsteflygplan i USA. År 1951 kom den sen till Sverige och efter sitt militära bruk fick den sin civila registrering 1973 och står idag på västerås flygmuseem.
+
+Denna typ var det avancerade träningsflygplanet för de flesta allierade flygvapnen under andra världskriget. I folkmun kallades typen för bland annat Pilot Maker.
+
+### YAK-52 – Yakovlev
+
+![YAK-52 – Yakovlev](/assets/images/yak-52.webp)
+
+Första Flygning 1976 – vår individ (LVH) är från 1991
+
+Yak-52 var grundskolsflygplanet i Sovjetunionens flygvapen och togs fram som en efterträdare till Yak-50.
+
+Även om typen är relativt ny så designades den för att vara ett insteg till tidiga efterkrigstidens militärflygplan. Flygplanet har en stjärnmotor och är idag ett populärt flygplan för avancerad flygning.
+
+### PA-30 – Piper Twin Commanche
+
+![PA-30 - Piper Twin Commanche](/assets/images/commanche.webp)
+
+Första Flygning 1962, vår individ (EOK) från 1963
+
+Detta är Pipers Tvåmotorsmaskin i premiumsegmentet från tidigt 60-tal.
+
+Modellen är konstruerad av Ed Swearingen som några år senare sedan byggde LearJeten. Den har en enastående prestanda som än idag är svårslagen.
+
+Denna individ är utrustad för full IFR med modern avionik samt avisning.
