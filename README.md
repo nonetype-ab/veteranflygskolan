@@ -17,7 +17,7 @@ I dagsläge har vi tillgång till 5 luftvärdiga individer:
 - 1st Yakovlev-52 - YAK52 (SE-LVN 1991)
 - 1st Pa30 TwinComanche (SE-EOK 1963)
 
-Se mer om de olika typerna nedan under "Våra Flygplan". 
+Se mer om de olika typerna nedan under "Flygplan och typer som erbjuds". 
 
 Utöver vanliga flygningar kan vi även erbjuda roteflygning med båda Chipmunkar eller SK16 & Yak52.
 Vi anordnar även tekniska kurser för de individer vi har i vår verksamhet, se Aktuellt/Evenemang för aktuella datum. 
