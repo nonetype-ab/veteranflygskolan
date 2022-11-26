@@ -22,6 +22,10 @@ Se mer om de olika typerna nedan under "Våra Flygplan".
 Utöver vanliga flygningar kan vi även erbjuda roteflygning med båda Chipmunkar eller SK16 & Yak52.
 Vi anordnar även tekniska kurser för de individer vi har i vår verksamhet, se Aktuellt/Evenemang för aktuella datum. 
 
+Intresserad ? Hör av dig så lägger vi upp en plan / hittar en tid för en tur.
+
+Tekniskt genomgång och säkerhetsgenomgång ingår självklart vid varje flygning !
+
 
 Vill du veta mer ? kontakta <veteran@hasslo.org>
 
@@ -116,56 +120,55 @@ text kommer
 
 text kommer
 
+# Aktuellt / Evenemang / Kommande Händelser
+
+text kommer
+
+# Flygrädd ?
+... men nyfiken på Veteranflyg ändå ?
+
+Då är du extra-välkommen hos oss på Veteranflygskolan !
+Flygrädsla är inget problem för oss - tala om för oss innan flygning om du är lite (eller mycket) flygrädd så tar vi hand om dig ombord på våra maskiner och tar den tid som behövs för att du ska känna dig trygg innan starten. En flygning bredvid en rutinerad instruktör med förklaringar om hur ett flygplan fungerar och varför saker och ting sker kan faktiskt vara ett mycket bra botemedel mot flygrädsla.
 
 
+# Vad krävs ?
 
-# Break Break !!
+### Provlektion med eller utan förerfarenhet
 
-Flygplanen vi flyger är från olika tidsepoker. Gemensamt är att alla är byggda före standardiseringens intåg i flyget. Därför har alla typer (och ibland individer) sina egna tekniska lösningar som stundtals skiljer sig rätt tydligt från dagens teknik. Vilket kräver en grundläggande tekniskt genomgång på marken innan flygningen.
+För en tur med våra instruktörer krävs egentligen inte mer än någorlunda väder, intresse för gammal flygteknik och lite tid, tekniskt genomgång av flygplanet och säkerhetsgenomgång ingår självklart i varje flygning.
 
+### Inflygning 
 
+Flygplanen vi flyger är från olika tidsepoker. Gemensamt är att alla är byggda före standardiseringens intåg i flyget. Därför har alla typer (och ibland individer) sina egna tekniska lösningar som stundtals skiljer sig rätt tydligt från dagens teknik. Vilket kräver en grundläggande tekniskt genomgång på marken innan flygningen, för komplett inflygning rekommenderar vi starkt våra tekniska kurser för typen.
+Untöver detta är hyfsat flygtrim starkt att rekommendera. För komplett inflygning krävs så klart att cert & behörigheter (SEP, MEP, Sporre) är giltiga, för enbart prova på är detta dock inget krav.
 
-Vid intresse, kontakta <veteran@hasslo.org>
+# Det Finstilta
 
-## Vad krävs?
+Att flyga i gamla flygplan har sin oförglömliga charme och skall självklart vara säkert ! Att vi alltid följer alla regler, lagar och respekterar eventuella minima / begränsningar är en självklarhet för oss.  För att alla skall bli nöjda ber vi dig har följande i åtanke:
 
-- Någorlunda flygtrim
-- Intresse av att lära sig en helt ny form av flygning.
-- Intresse av att lära sig gammal teknik.
-- Nyfikenhet att flyga som man flög förr.
-- Lite extra tid, då markgenomgång tar mer tid och är nödvändig.
-- Hyfsat väder
-
-## Vad krävs inte?
-
-- Behörighet att flyga sporre eller tvåmotor (om man bara vill prova på).
-
-## Vad kostar det?
-
-Vi tillämpar timpris för både flygplan och lärararvode, priserna skiljer sig så klart åt beroende på maskin och kan förändras lite beroende på omkostnader för maskinen och bränslekostnader. Mer detaljerade priser får du vi intresseförfrågan.
+- Flygplanen uppfyller självklart alla krav på säkerhet som ställs på dagens General Aviation (Normal- eller X-klassat).
+- Komforten är tidsenligt. Flygplanen är inte handikappanpassade, normal rörlighet krävs för att ta sig in och ur maskinerna.
+- Våra flygplan är mindre och har en definierad max TakeOff Weight vilket begränsar totalvikten av alla passagerare. Instruktören kommer efterfråga er vikt i kg i förväg för att kunna beräkna massa och balans innan flygning.
+- Vi rekommenderar starkt oömma kläder och stabila skor. Olja, smörjmedel, flygbränsle och på vissa maskiner avisningsvätska tillhör flygande flygplan. Vi tar inte ansvar för ev oljefläckar eller dylikt på kläder, etc.
+- NOLL TOLERANS för alkohol och droger är en självklarhet för oss inom flyget!
+- Flygningarna kan ställas in även med kort varsel av Instruktören pga väder, teknik, eller andra skäl. Beslutet om att genomföra flygningen åligger enbart instruktören.
+- Instruktören är alltid befälhavaren ombord på våra veteranflygpan och har ensam beslutsrätt ombord enligt Luftfartslagen. Alla anvisningar och beslut är bindande och skall följas ovillkorligen!
 
 
-## Vad erbjuder vi?
-
-- Tekniska kurser för de veteranflygplan vi har tillgång till.
-- Provlektioner – för alla som vill prova på och känna skillnaderna i att flyga ett veteranflygplan.
-- Inflygningar på de typer vi har tillgång till, dvs komplett utbildning för att få godkänd på typen.
-- Repetetionsutbildningar på de typerna vi har tillgång till.
-- En helt ny flygupplevelse bortom klubbflygplanens värld.
 
 ## Vad erbjuder vi inte?
 
-- Möjlighet att fritt hyra flygplanen i HFF efter inflygning. 
+- Möjlighet att fritt hyra flygplanen efter inflygning. 
 
-Vi lyfter den här punkten för att tydliggöra att dessa maskiner inte hyrs ut genom klubben. Detta är en satsning tillsammans med de entusiaster som äger maskinerna i dag. Efter prova på pass och en eventuell inflygning på typen är det sen upp till respektive flygplansägare att avgöra vem eller vilka som får flyga dess maskiner. 
+Vi lyfter den här punkten för att tydliggöra att dessa maskiner inte hyrs ut fritt. 
 
-Anledningen att de – trots sin entusiasm och önskan att sprida denna passion för veteranflyg – behöver vara mer restriktiva med vilka de låter hyra maskinerna är flera. Flygplanen är gamla och inte i produktion längre, detta innebär att tillgång till reservdelar är allt från begränsat till näst intill obefintligt. Där det finns delar så är dessa inte helt sällan “svindyra”. 
+Anledningen att vi – trots vår entusiasm och önskan att sprida denna passion för veteranflyg – behöver vara mer restriktiva med vilka vi låter hyra maskinerna är flera. Flygplanen är gamla och inte i produktion längre, detta innebär att tillgång till reservdelar är allt från begränsat till näst intill obefintligt. Där det finns delar så är dessa inte helt sällan “svindyra”. 
 
 Även mindre incidenter som leder till skador är oftast förenad med höga kostnader och ett garanterat krångel med att hitta reservdelar någonstans i världen. Det kan vara så illa att även en till synes mindre skada blir en dödsdom för maskinen då det kan vara praktiskt eller ekonomiskt orimligt att återställa maskinen till luftvärdigt skick.
 
 Till följd blir försäkringskostnaderna avsevärt högre för dessa flygplan, och det ställs ofta krav på namngivna piloter och tydliga krav på erfarenhet.
 
-Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Men därefter är det helt upp till ägaren. Vissa ägare kommer blankt säga nej till uthyrning medan andra kanske är mer öppna (troligen först när de lärt känna piloten personligen). Men att flyga med instruktörer kommer alltid vara möjligt.
+Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Att sedan få flyga med våra instruktörer kommer alltid vara möjligt.
 
 
 
