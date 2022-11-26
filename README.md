@@ -1,4 +1,4 @@
-![SK16 - Noorduyn AT-16-ND Harvard IIB](/assets/images/harvard-sk16.webp)
+![Veteranflygskolan](/assets/images/Veteranflygskolan-front.jpeg)
 
 Efter ett pass i ett veteranflygplan kommer du inte längre se någon större skillnad mellan att flyga en Cessna 172 och en DA40. I jämförelse med ett veteranflygplan är nämligen skillnaderna mellan dagens klubb- och skolflygplan minimala. 
 
