@@ -91,13 +91,30 @@ Intresserad ? Kontakta oss på: <flyingdoktor@gmail.com>
 
 ## Multi-Engine-IR-PC 
 
-![EOK-Panel](/assets/images/EOK-Panel.jp2)
+![EOK-Panel](/assets/images/EOK-Panel.jpg)
 
 Behöver du en ME-IR-PC ? Varför inte göra den på en riktigt klassiker ?  Västerås Veteranflygskola erbjuder ME-IR PC på en premium Light Twin från 60-talet med modern avionik och full PBN-godkännande. Vår Pa30 SE-EOK används fortfarande för tjänsteresor bl a till Nordnorge och finns tillgängligt med våra instruktörer som även har kontrollantbehörighet. 
 Tekniskt genomgång av maskinen ingår före flygning dock är maskinen något mer komplex med manuell motor- & propellerhantering samt relativ vass aerodynamik; därför rekommenderas viss erfarenhet i äldre och komplexa 2motors-maskiner.
 Pris: 4400 SEK per Hobbs-timme plus 2000 SEK kontrollant-avgift.
 
 Intresserad ? Kontakta oss på: <flyingdoktor@gmail.com>
+
+
+# Om oss
+
+Ett gäng flyglärare och flygentusiaster som brinner för flyget så som det var förr och för gammal teknik. Vi underhåller, driftar och flyger så klart gamla flygmaskiner. Vi vill sprida kunskap och glädjen av teknik från en svunnen tid. 
+
+### Anders Jacobsen
+
+text kommer
+
+### Kolja Gilli
+
+text kommer
+
+### Eddy Holm 
+
+text kommer
 
 
 
@@ -126,10 +143,6 @@ Vid intresse, kontakta <veteran@hasslo.org>
 ## Vad kostar det?
 
 Vi tillämpar timpris för både flygplan och lärararvode, priserna skiljer sig så klart åt beroende på maskin och kan förändras lite beroende på omkostnader för maskinen och bränslekostnader. Mer detaljerade priser får du vi intresseförfrågan.
-
-## Vilka är vi?
-
-Ett gäng flyglärare och flygentusiaster som brinner för gamla flygplan. Många av oss äger och underhåller ett eller flera veteranflygplan – och flyger dessa så klart. Normalt hittar ni oss och våra flygplan på [Västerås Flygmuseeum](https://www.flygmuseum.com/), som är en samarbetspart i detta initiativ.
 
 
 ## Vad erbjuder vi?
