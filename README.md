@@ -1,16 +1,37 @@
 ![Veteranflygskolan](/assets/images/Veteranflygskolan-front.jpeg)
 
-Efter ett pass i ett veteranflygplan kommer du inte längre se någon större skillnad mellan att flyga en Cessna 172 och en DA40. I jämförelse med ett veteranflygplan är nämligen skillnaderna mellan dagens klubb- och skolflygplan minimala. 
+# Välkommen till Veteranflygskolan !
 
-Veteranflygplan har ingen elektronik som avlastar, utan allt sker manuellt. Detta innebär att man som pilot (då man är så illa tvungen…) behöver få en helt annan känsla för sin flygmaskin. 
+Hos oss kan du flyga som förr. Vi brinner för gamla flygmaskiner och vill sprida kunskap och gammal teknik. 
 
-Detta är enbart en positiv upplevelse (för oss som gillar sådant). Många veteranflygplan har en enastående aerodynamik och roderharmoni vilket är en av anledningarna att dessa än idag är så uppskattade av sina piloter.
+Oavsett om du inte har någon flygerfarenhet alls och vill bara följa med på en tur i ett av våra veteranflygplan för att få uppleva flyg från en svunnen tid eller om du är rutinerad pilot och vill utveckla ditt flygande genom att prova på eller flyga in dig på en riktig klassiker så kommer du inte glömma upplevelsen av att få flyga veteranflygplan.
+
+Vi är baserade på Västerås Hässlö (ESOW) och huserar i [Västerås Flygmuseeum](https://www.flygmuseum.com/) som i sig är en rarität som en gång i tiden största fribärande konstruktion i Norden när hangaren byggdes på 30-talet.
+
+Eftersom det dock ligger i flygets natur att snabbt och enkelt förflytta sig mellan olika orter kan vi dyka upp på alla flygfält inom rimlig avstånd från Mälardalen; så kan vi sprida kunskap om veteranflyg även utanför vår hemmabas - hör av dig, så berättar vi mer.
+
+I dagsläge har vi tillgång till 5 luftvärdiga individer:
+
+- 2st DeHavilland DHC-1 Chipmunk (SE-GRK 1950 samt SE-FNP 1952)
+- 1st SK16-AT6-Harvard (SE-FUZ 1943)
+- 1st Yakovlev-52 - YAK52 (SE-LVN 1991)
+- 1st Pa30 TwinComanche (SE-EOK 1963)
+
+Se mer om de olika typerna nedan under "Våra Flygplan". 
+
+Utöver vanliga flygningar kan vi även erbjuda roteflygning med båda Chipmunkar eller SK16 & Yak52.
+Vi anordnar även tekniska kurser för de individer vi har i vår verksamhet, se Aktuellt/Evenemang för aktuella datum. 
+
+
+Vill du veta mer ? kontakta <veteran@hasslo.org>
+
+
+
+
 
 Flygplanen vi flyger är från olika tidsepoker. Gemensamt är att alla är byggda före standardiseringens intåg i flyget. Därför har alla typer (och ibland individer) sina egna tekniska lösningar som stundtals skiljer sig rätt tydligt från dagens teknik. Vilket kräver en grundläggande tekniskt genomgång på marken innan flygningen.
 
-Utöver en helt ny flygupplevelse får man i Veteranflygskolan kunskap om gammal flygteknik på köpet. Något du kommer ha nytta av även i vardagens klubbflygplan.
 
-Dessutom får man möjlighet att känna på Sporre och / eller betydligt mer komplexa flygplan.
 
 Vid intresse, kontakta <veteran@hasslo.org>
 
