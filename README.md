@@ -171,6 +171,10 @@ Till följd blir försäkringskostnaderna avsevärt högre för dessa flygplan, 
 Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Att sedan få flyga med våra instruktörer kommer alltid vara möjligt.
 
 
+# Flygläkare
 
+I genom att en av våra instruktörer även har Flygläkarbehörighet så kan vi även erbjuda Medical-Undersökningar för alla klasser i våra lokaler i Flygmuseet i Västerås. 
 
+Maila Kolja <flyingdoktor@gmail.com> för mer info och bokning; alla tillgängliga tider hittar ni i nedanstående länk.
 
+<iframe src="https://calendar.google.com/calendar/embed?src=hb10rpr3hhdijl19kke2u7un5o%40group.calendar.google.com&ctz=Europe%2FStockholm" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
