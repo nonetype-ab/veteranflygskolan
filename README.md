@@ -26,6 +26,25 @@ Vi anordnar även tekniska kurser för de individer vi har i vår verksamhet, se
 Vill du veta mer ? kontakta <veteran@hasslo.org>
 
 
+## Flygplan och typer som erbjuds
+
+### DHC-1 DeHavilland Chipmunk
+
+![DHC-1 - DeHavilland Chipmunk](/assets/images/chipmunk.webp)
+
+Flyg DeHavilland DHC-1 Chipmunk - "Poor Mans Spittfire"
+Som direkt efterföljare till Tiger Moth som grundutbildningsmaskin i flertal flygvapen (Royal British Airforce, Kanada, Danmark, Portugal, m fl)  efter 2:a världskriget har Chipmunken varit första utbildningssteget för tusentals stridspiloter. Första flygning 1946 och i flygvapnens tjänst in i 70-talet. Totalt har ca 1200 byggds i England, Kanada och Portugal och ett stort antal är fortfarande flygande och mycket uppskattat för sina fantastiska aerodynamiska egenskaper och roderharmoni. 
+"Chippie" är relativt enkelt (för att vara ett veteranflygplan) och är närmast perfekt som insteg i veteranflygets värld. 
+Oavsett om du är pilot och vill göra en komplett inflygning på typen eller om du inte har flygcert och vill ändå uppleva ett klassiker i luften så så kommer du inte glömma en (prov-) lektion med våra erfarna instruktörer.
+Med våra två individer SE-GRK (tid danska flygvapnet byggd 1950) och SE-FNP (tid Royal Airforce byggd 1952) kan vi även erbjuda roteflygning om ni är två som vill uppleva flyghistoria tillsammans fast i var sin veteran.
+Plats för en pax/elev plus vår instruktör, OBS: Maxvikt 114KG, ingen förerfarenhet krävs.
+Våra Priser inkl instruktör:
+- ca 25-30 min Airborne: 2000 SEK
+- ca 55-60 min Airborne: 3500 SEK
+- komplett inflygning: timdebitering 3100 SEK per BLOCK-timme
+
+Intresserad ? Kontakta oss på: <anders.jacobsen@telia.com> eller <flyingdoktor@gmail.com>
+
 
 
 
