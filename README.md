@@ -13,7 +13,7 @@ Eftersom det dock ligger i flygets natur att snabbt och enkelt förflytta sig me
 I dagsläge har vi tillgång till 5 luftvärdiga individer:
 
 - 2st DeHavilland DHC-1 Chipmunk (SE-GRK 1950 samt SE-FNP 1952)
-- 1st SK16-AT6-Harvard (SE-FUZ 1943)
+- 1st SK16-AT6-Harvard (SE-FUZ 1942)
 - 1st Yakovlev-52 - YAK52 (SE-LVN 1991)
 - 1st Pa30 TwinComanche (SE-EOK 1963)
 
@@ -45,8 +45,54 @@ Våra Priser inkl instruktör:
 
 Intresserad ? Kontakta oss på: <anders.jacobsen@telia.com> eller <flyingdoktor@gmail.com>
 
+### SK16 – Noorduyn AT-16-ND Harvard IIB
+
+![SK16 - Noorduyn AT-16-ND Harvard IIB](/assets/images/harvard-sk16-2.webp)
+
+SK16 - Noorduyn AT-16 Harvard - "Pilot Maker"
+Avancerat skolflygplan som ursprungligen utvecklades i USA på 30-talet som trainer för US Airforce och som sedan kom till användning i de flesta av västvärldens flygvapen som avancerad trainer - typen kallas även för "Pilot Maker"
+Vår individ SE-FUZ som är byggd 1942 har en alldeles egen och unik historia då individen var svenska militärattachéns tjänsteflygplan i slutet av 40-talet.
+Hos oss kan du uppleva 80-årig flyghistoria i luftvärdigt skick med våra erfarna instruktörer.
+Tillsammans med YAK-52 kan du även flyga i en historiskt omöjlig rote.
+Pris: 6500 SEK för ca 25-30 min flygning med erfaren instruktör.
+
+Intresserad ? Kontakta oss på: <anders.jacobsen@telia.com> 
 
 
+### YAK-52 – Yakovlev
+
+![YAK-52 – Yakovlev](/assets/images/yak-52.webp)
+
+Yakovlev YAK-52 - Gamla Sovjetunionens grundskolflygplan
+Utvecklat som efterföljare till YAK-50 och använd som utbildningsflygplan i i princip alla flygvapen i f.d. östblocket har denna typ efter berlinmurens fall fått ett andra liv även i västvärlden då typen anses som lättflugen och mkt lämpligt för avancerat flygning med lämplig aerodynamik och tillräckligt motorkraft.
+Hos oss på kan du få uppleva denna flygmaskin med svårslagen prestanda med erfaren instruktör.
+Vill du flyga en historiskt omöjlig rote-flygning så erbjuder vi även SK16 och YAK-52 i rote.
+Pris: 3500 SEK för ca 25-30 min flygning inkl instruktör.
+
+Intresserad ? Kontakta oss på: <anders.jacobsen@telia.com> eller <e.holm@svetsoteknik.se>
+
+
+### PA-30 – Piper Twin Commanche
+
+![PA-30 - Piper Twin Commanche](/assets/images/commanche.webp)
+
+Pa30/39 - TwinComanche - Learjets propellerdrivna lillasyster
+Pa30 är Pipers premium tvåmotorsmaskin från tidig 60-tal med enastående prestanda. Konstruerad av Ed Swearingen som även ritade Learjet och enastående aerodynamik som än idag håller måttet. Den vassa aerodynamiken och prestandan var dock något nytt för Piper vilket gjorde att maskinen har relativ omtumlande och omdiskuterat historia med t.o.m. hot om indraget typcert från FAA. Rätt hanterat är maskinen dock mycket trevligt att flyga och fortfarande regelbunden använd som resemaskin. Första flygning 1962 och byggd i Lock Haven där även Piper Cub byggdes. I samband med fabriksstängningen 1972 las tyvärr produktionen ner; totalt blev 2142 individer byggda varav ca 1000 är fortfarande flygandes världen rund och mkt uppskattade av sina ägare som pålitlig, bekväm och effektiv resemaskin. 
+Vår individ SE-EOK är byggd 1963 och har funnits i Sverige sedan 1964. Nuförtiden är individen utrustat med modern (PBN-godkänd) avionik och avisning; EOK används än idag för tjänsteresor och tar sig t ex Västerås-Lofoten på 3:10 i nollvind.
+Hos oss kan du få uppleva denna 60-talets premium tvåmotorsmaskin med erfaren instruktör. 
+Flygerfarenhet eller Multi Engine Rating är inget krav, vi anpassar oss till dina förutsättningar.
+Plats för instruktör och upp till tre pax (max totalvikt för pax 200Kg, annars behövs lite bränsleplanering i förväg)
+Våra priser för maskin med instruktör:
+- 25-30 min Airborne 3600 SEK
+- 55-60 min Airborne 6000 SEK
+- längre flygningar: 5200 SEK per HOBBS-timme
+
+Intresserad ? Kontakta oss på: <flyingdoktor@gmail.com>
+
+
+
+
+# Break Break !!
 
 Flygplanen vi flyger är från olika tidsepoker. Gemensamt är att alla är byggda före standardiseringens intåg i flyget. Därför har alla typer (och ibland individer) sina egna tekniska lösningar som stundtals skiljer sig rätt tydligt från dagens teknik. Vilket kräver en grundläggande tekniskt genomgång på marken innan flygningen.
 
@@ -98,48 +144,7 @@ Till följd blir försäkringskostnaderna avsevärt högre för dessa flygplan, 
 
 Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Men därefter är det helt upp till ägaren. Vissa ägare kommer blankt säga nej till uthyrning medan andra kanske är mer öppna (troligen först när de lärt känna piloten personligen). Men att flyga med instruktörer kommer alltid vara möjligt.
 
-## Flygplan och typer som erbjuds
 
-### DHC-1 DeHavilland Chipmunk
 
-![DHC-1 - DeHavilland Chipmunk](/assets/images/chipmunk.webp)
 
-Första flygning 1946, våra individer från 1950 (GRK) och 1952 (FNP).
 
-Chipmunk är efterföljaren till Tiger Moth som primary trainer i flertal flygvapen i Västvärlden efter andra världskriget; typen kallas oxå för poor man’s Spitfire p.g.a. sina enastående aerodynamiska egenskaper.
-
-För Chipmunk kan vi t.o.m. erbjuda roteflygning då vi har tillgång till två individer.
-
-Detta är ett perfekt insteg i veteranflygets värld!
-
-### SK16 – Noorduyn AT-16-ND Harvard IIB
-
-![SK16 - Noorduyn AT-16-ND Harvard IIB](/assets/images/harvard-sk16-2.webp)
-
-Första flygning 1935, vår individ (FUZ) är från 1942.
-
-Individen användes först i Kanadensiska flygvapnet. 1947 togs den in i Svenska flygvapnet som SK16A och blev den Svenska militärattachéns tjänsteflygplan i USA. År 1951 kom den sen till Sverige och efter sitt militära bruk fick den sin civila registrering 1973 och står idag på västerås flygmuseem.
-
-Denna typ var det avancerade träningsflygplanet för de flesta allierade flygvapnen under andra världskriget. I folkmun kallades typen för bland annat Pilot Maker.
-
-### YAK-52 – Yakovlev
-
-![YAK-52 – Yakovlev](/assets/images/yak-52.webp)
-
-Första Flygning 1976 – vår individ (LVH) är från 1991
-
-Yak-52 var grundskolsflygplanet i Sovjetunionens flygvapen och togs fram som en efterträdare till Yak-50.
-
-Även om typen är relativt ny så designades den för att vara ett insteg till tidiga efterkrigstidens militärflygplan. Flygplanet har en stjärnmotor och är idag ett populärt flygplan för avancerad flygning.
-
-### PA-30 – Piper Twin Commanche
-
-![PA-30 - Piper Twin Commanche](/assets/images/commanche.webp)
-
-Första Flygning 1962, vår individ (EOK) från 1963
-
-Detta är Pipers Tvåmotorsmaskin i premiumsegmentet från tidigt 60-tal.
-
-Modellen är konstruerad av Ed Swearingen som några år senare sedan byggde LearJeten. Den har en enastående prestanda som än idag är svårslagen.
-
-Denna individ är utrustad för full IFR med modern avionik samt avisning.
