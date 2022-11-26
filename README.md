@@ -122,8 +122,6 @@ text kommer
 
 # Aktuellt / Evenemang / Kommande Händelser
 
-![Kurs Chipmunk](/assets/Affisch-Tekn-Kurs-DHC1 2023-04-22.pdf)
-
 
 text kommer
 
