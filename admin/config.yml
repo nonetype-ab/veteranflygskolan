@@ -1,0 +1,5 @@
+---
+backend:
+  name: github
+  repo: nonetype-ab/veteranflygskolan.se
+  branch: main
