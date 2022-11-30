@@ -1,0 +1,88 @@
+---
+baseURL: "https://www.veteranflygskolan.se/"
+defaultContentLanguage: "sv"
+title: "Veteranflygskolan"
+theme: "hugo-PaperMod"
+
+languages:
+  sv:
+    languageName: "Svenska"
+    weight: 1
+    homeInfoParams:
+      Title: "Välkommen till Veteranflygskolan!"
+      Content: |
+        ![veteranflygskolan](/images/front.webp)
+        <br/>
+        Hos oss kan du flyga som förr. Vi brinner för gamla flygmaskiner och vill sprida kunskap och gammal teknik. Oavsett om du inte har någon flygerfarenhet alls och vill bara följa med på en tur i ett av våra veteranflygplan för att få uppleva flyg från en svunnen tid eller om du är rutinerad pilot och vill utveckla ditt flygande genom att prova på eller flyga in dig på en riktig klassiker så kommer du inte glömma upplevelsen av att få flyga veteranflygplan.
+        <br/>
+        <br/>
+        Vi är baserade på Västerås Hässlö (ESOW) och huserar i Västerås Flygmuseeum som i sig är en rarität som en gång i tiden största fribärande konstruktion i Norden när hangaren byggdes på 30-talet.
+        <br/>
+        <br/>
+        Eftersom det dock ligger i flygets natur att snabbt och enkelt förflytta sig mellan olika orter kan vi dyka upp på alla flygfält inom rimlig avstånd från Mälardalen; så kan vi sprida kunskap om veteranflyg även utanför vår hemmabas - hör av dig, så berättar vi mer.
+        <br/>
+        <br/>
+        Utöver vanliga flygningar kan vi även erbjuda roteflygning med båda Chipmunkar eller SK16 & Yak52. Vi anordnar även tekniska kurser för de individer vi har i vår verksamhet, se Aktuellt/Evenemang för aktuella datum.
+        <br/>
+        <br/>
+        Kontakta oss på veteran@hasslo.org om du vill veta mera.
+    menu:
+      main:
+      - name: Startsida
+        url: /
+        weight: 1
+      - name: Flygplan
+        url: aircrafts
+        weight: 2
+      - name: Medical
+        url: medical
+        weight: 3
+      - name: PC
+        url: pc
+        weight: 4
+      - name: Om oss
+        url: about
+        weight: 5
+  en:
+    languageName: "English"
+    weight: 2
+    homeInfoParams:
+      Title: "Welcome to Veteran Flight School!"
+      Content: |
+        ![veteranflygskolan](/images/front.webp)
+        <br/>
+        With us, you can fly as good old days. We are passionate about old aircraft and want to spread knowledge and classic technology. Whether you have no flying experience at all and just want to join us for a ride in one of our vintage aircraft to experience flying from a bygone era, or if you are an experienced pilot and want to develop your flying skills by trying out or flying in a real classic, you won't forget the experience of flying vintage aircraft.
+        <br/>
+        <br/>
+        We are based at Västerås Hässlö (ESOW) and house the Västerås Aviation Museum, which in itself is a rarity as once the largest cantilever structure in the Nordics when the hangar was built in the 1930s.
+        <br/>
+        <br/>
+        However, since it is in the nature of aviation to move quickly and easily between different locations, we can appear at all airfields within a reasonable distance from Mälardalen; so we can spread knowledge about veteran aviation even outside our home base - get in touch, and we'll tell you more.
+        <br/>
+        <br/>
+        In addition to regular flights, we can also offer rote flights with both Chipmunks or SK16 & Yak52. We also organize technical courses for the individuals we have in our business, see News/Events for current dates.
+        <br/>
+        <br/>
+        Contact us at veteran@hasslo.org
+    menu:
+      main:
+      - name: Home
+        url: /
+        weight: 1
+      - name: Aircraft
+        url: aircrafts
+        weight: 2
+      - name: Medical
+        url: medical
+        weight: 3
+      - name: PC
+        url: pc
+        weight: 4
+      - name: About
+        url: about
+        weight: 5
+
+markup:
+  goldmark:
+   renderer:
+     unsafe: true
