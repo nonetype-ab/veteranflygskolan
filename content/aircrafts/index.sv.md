@@ -56,7 +56,7 @@ Learjets propellerdrivna lillasyster Pa30 är Pipers premium tvåmotorsmaskin fr
 
 Vår individ SE-EOK är byggd 1963 och har funnits i Sverige sedan 1964. Nuförtiden är individen utrustat med modern (PBN-godkänd) avionik och avisning; EOK används än idag för tjänsteresor och tar sig t ex Västerås-Lofoten på 3:10 i nollvind. Hos oss kan du få uppleva denna 60-talets premium tvåmotorsmaskin med erfaren instruktör. Flygerfarenhet eller Multi Engine Rating är inget krav, vi anpassar oss till dina förutsättningar.
 
-Plats för instruktör och upp till tre pax (max totalvikt för pax 200Kg, annars behövs lite bränsleplanering i förväg).
+Plats för instruktör och upp till tre pax (max totalvikt för pax 200Kg, annars behövs lite bränsleplanering i förväg), ingen förerfarenhet krävs.
 
 Pris inkl instruktör:
 
