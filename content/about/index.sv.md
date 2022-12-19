@@ -12,9 +12,11 @@ todo
 
 ## Kolja Gilli
 
+Flyglärare och Kontrollant.
+Även Flygläkare, och frilansande Narkosläkare, använder TwinComanchen som resemaskin för sina regelbundna narkosuppdrag i Norden.
+
 flyingdoktor@gmail.com
 
-todo
 
 ## Eddy Holm
 
