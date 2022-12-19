@@ -8,9 +8,9 @@ TocOpen: true
 
 ![DHC-1 - DeHavilland Chipmunk](chipmunk.webp)
 
-Flyg DeHavilland DHC-1 Chipmunk - “Poor Mans Spittfire” Som direkt efterföljare till Tiger Moth som grundutbildningsmaskin i flertal flygvapen (Royal British Airforce, Kanada, Danmark, Portugal, m fl) efter 2:a världskriget har Chipmunken varit första utbildningssteget för tusentals stridspiloter. Första flygning 1946 och i flygvapnens tjänst in i 70-talet. Totalt har ca 1200 byggds i England, Kanada och Portugal och ett stort antal är fortfarande flygande och mycket uppskattat för sina fantastiska aerodynamiska egenskaper och roderharmoni. “Chippie” är relativt enkelt (för att vara ett veteranflygplan) och är närmast perfekt som insteg i veteranflygets värld. Oavsett om du är pilot och vill göra en komplett inflygning på typen eller om du inte har flygcert och vill ändå uppleva ett klassiker i luften så så kommer du inte glömma en (prov-) lektion med våra erfarna instruktörer. Med våra två individer SE-GRK (tid danska flygvapnet byggd 1950) och SE-FNP (tid Royal Airforce byggd 1952) kan vi även erbjuda roteflygning om ni är två som vill uppleva flyghistoria tillsammans fast i var sin veteran.
+Flyg DeHavilland DHC-1 Chipmunk - “Poor Mans Spittfire” Som direkt efterföljare till Tiger Moth som grundutbildningsmaskin i flertal flygvapen (Royal British Airforce, Kanada, Danmark, Portugal, m fl) efter 2:a världskriget har Chipmunken varit första utbildningssteget för tusentals stridspiloter. Första flygning 1946 och i flygvapnens tjänst in i 70-talet. Totalt har 1284 byggds i England, Kanada och Portugal och ett stort antal är fortfarande flygande och mycket uppskattat för sina fantastiska aerodynamiska egenskaper och roderharmoni. “Chippie” är relativt enkelt (för att vara ett veteranflygplan) och är närmast perfekt som insteg i veteranflygets värld. Oavsett om du är pilot och vill göra en komplett inflygning på typen eller om du inte har flygcert och vill ändå uppleva ett klassiker i luften så så kommer du inte glömma en (prov-) lektion med våra erfarna instruktörer. Med våra två individer SE-GRK (tid danska flygvapnet byggd 1950) och SE-FNP (tid Royal Airforce byggd 1952) kan vi även erbjuda roteflygning om ni är två som vill uppleva flyghistoria tillsammans fast i var sin veteran.
 
-Plats för en pax/elev plus vår instruktör, OBS: Maxvikt 114KG, ingen förerfarenhet krävs.
+Plats för en pax/elev plus vår instruktör, OBS: Maxvikt 114Kg, ingen förerfarenhet krävs.
 
 Pris inkl instruktör:
 
@@ -24,7 +24,9 @@ Kontakta oss på: anders.jacobsen@telia.com eller flyingdoktor@gmail.com
 
 ![SK16 - Noorduyn AT-16-ND Harvard IIB](cover.webp)
 
-“Pilot Maker” Avancerat skolflygplan som ursprungligen utvecklades i USA på 30-talet som trainer för US Airforce och som sedan kom till användning i de flesta av västvärldens flygvapen som avancerad trainer - typen kallas även för “Pilot Maker” Vår individ SE-FUZ som är byggd 1942 har en alldeles egen och unik historia då individen var svenska militärattachéns tjänsteflygplan i slutet av 40-talet. Hos oss kan du uppleva 80-årig flyghistoria i luftvärdigt skick med våra erfarna instruktörer. Tillsammans med YAK-52 kan du även flyga i en historiskt omöjlig rote.
+“Pilot Maker” Avancerat skolflygplan som ursprungligen utvecklades i USA på 30-talet som trainer för US Airforce och som sedan kom till användning i de flesta av västvärldens flygvapen som avancerad trainer - typen kallas även för “Pilot Maker” Vår individ SE-FUZ som är byggd 1943 har en alldeles egen och unik historia då individen var svenska militärattachéns tjänsteflygplan i slutet av 40-talet. Hos oss kan du uppleva 80-årig flyghistoria i luftvärdigt skick med våra erfarna instruktörer. Tillsammans med YAK-52 kan du även flyga i en historiskt omöjlig rote.
+
+Plats för pax/elev samt vår instruktör, OBS: Maxvikt 110kg samt Maxlängd 185-190cm, ingen förerfarenhet krävs.
 
 Pris inkl instruktör:
 
@@ -37,6 +39,8 @@ Kontakta oss på: anders.jacobsen@telia.com
 ![YAK-52 – Yakovlev](yak-52.webp)
 
 Gamla Sovjetunionens grundskolflygplan Utvecklat som efterföljare till YAK-50 och använd som utbildningsflygplan i i princip alla flygvapen i f.d. östblocket har denna typ efter berlinmurens fall fått ett andra liv även i västvärlden då typen anses som lättflugen och mkt lämpligt för avancerat flygning med lämplig aerodynamik och tillräckligt motorkraft. Hos oss på kan du få uppleva denna flygmaskin med svårslagen prestanda med erfaren instruktör. Vill du flyga en historiskt omöjlig rote-flygning så erbjuder vi även SK16 och YAK-52 i rote.
+
+Plats för pax/elev samt vår instruktör, OBS: Maxvikt 90kg, ingen förerfarenhet krävs.
 
 Pris inkl instruktör:
 
@@ -90,16 +94,3 @@ Att flyga i gamla flygplan har sin oförglömliga charme och skall självklart v
 - Flygningarna kan ställas in även med kort varsel av Instruktören pga väder, teknik, eller andra skäl. Beslutet om att genomföra flygningen åligger enbart instruktören.
 - Instruktören är alltid befälhavaren ombord på våra veteranflygpan och har ensam beslutsrätt ombord enligt Luftfartslagen. Alla anvisningar och beslut är bindande och skall följas ovillkorligen!
 
-## Vad erbjuder vi inte?
-
-- Möjlighet att fritt hyra flygplanen efter inflygning.
-
-Vi lyfter den här punkten för att tydliggöra att dessa maskiner inte hyrs ut fritt.
-
-Anledningen att vi – trots vår entusiasm och önskan att sprida denna passion för veteranflyg – behöver vara mer restriktiva med vilka vi låter hyra maskinerna är flera. Flygplanen är gamla och inte i produktion längre, detta innebär att tillgång till reservdelar är allt från begränsat till näst intill obefintligt. Där det finns delar så är dessa inte helt sällan “svindyra”.
-
-Även mindre incidenter som leder till skador är oftast förenad med höga kostnader och ett garanterat krångel med att hitta reservdelar någonstans i världen. Det kan vara så illa att även en till synes mindre skada blir en dödsdom för maskinen då det kan vara praktiskt eller ekonomiskt orimligt att återställa maskinen till luftvärdigt skick.
-
-Till följd blir försäkringskostnaderna avsevärt högre för dessa flygplan, och det ställs ofta krav på namngivna piloter och tydliga krav på erfarenhet.
-
-Så med det sagt är det bra att veta att en flygning genom Veteranflygskolan kommer vara en oförglömlig upplevelse. Även så en komplett inflygning på typen. Att sedan få flyga med våra instruktörer kommer alltid vara möjligt.
