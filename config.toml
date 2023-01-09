@@ -1,0 +1,75 @@
+baseURL = "https://www.veteranflygskolan.se/"
+title = "Veteranflygskolan"
+theme = "veteran"
+defaultContentLanguage = "sv"
+
+[languages.sv]
+languageName = "Svenska"
+weight = 1
+
+[[languages.sv.menu.main]]
+name = "Startsida"
+url = "/"
+weight = 1
+
+[[languages.sv.menu.main]]
+name = "Event"
+url = "events"
+weight = 2
+
+[[languages.sv.menu.main]]
+name = "Flygplan"
+url = "aircrafts"
+weight = 3
+
+[[languages.sv.menu.main]]
+name = "Medical"
+url = "medical"
+weight = 4
+
+[[languages.sv.menu.main]]
+name = "PC"
+url = "pc"
+weight = 5
+
+[[languages.sv.menu.main]]
+name = "Om oss"
+url = "about"
+weight = 6
+
+[languages.en]
+languageName = "English"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "Events"
+url = "events"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Aircraft"
+url = "aircrafts"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Medical"
+url = "medical"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "PC"
+url = "pc"
+weight = 5
+
+[[languages.en.menu.main]]
+name = "About"
+url = "about"
+weight = 6
+
+[markup.goldmark.renderer]
+unsafe = true

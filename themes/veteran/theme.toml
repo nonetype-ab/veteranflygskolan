@@ -1,0 +1,12 @@
+name = "veteran"
+license = "MIT"
+licenselink = "https://github.com/nonetype-ab/veteranflygskolan/blob/main/themes/veteran/LICENSE"
+description = ""
+homepage = "https://www.veteranflygskolan.se"
+tags = []
+features = []
+min_version = "0.41.0"
+
+[author]
+  name = "Carl Loa Odin"
+  homepage = "https://www.nonetype.se"
