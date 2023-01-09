@@ -1,0 +1,34 @@
+{{- define "main" }}
+  <main>
+    {{ if .IsTranslated }}
+    <ul>
+      {{ range .Translations }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Lang }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <article>
+      <header>
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div>
+      {{ with .Content }}{{ . }}{{ end }}
+      </div>
+    </article>
+
+    <ul>
+      {{ $paginator := .Paginate (.Pages) }}
+      {{ range $paginator.Pages }}
+      <li>
+        <a href="{{.Permalink}}">{{.Params.Event.Start.Format "2006-01-02"}} | {{.Title}}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </main>
+{{- end }}

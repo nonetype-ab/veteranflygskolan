@@ -1,0 +1,27 @@
+{{- define "title" }}
+  {{ .Title }} - {{ .Site.Title }}
+{{- end }}
+
+{{- define "main" }}
+  <main>
+    {{ if .IsTranslated }}
+    <ul>
+      {{ range .Translations }}
+      <li>
+        <a href="{{ .Permalink }}">{{ .Lang }}</a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
+
+    <article>
+      <h1>{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+      <span class="subtitle">{{.}}</span>
+      {{ end }}
+    </article>
+    <div>
+    {{ with .Content }}{{ . }}{{ end }}
+    </div>
+  </main>
+{{- end }}
